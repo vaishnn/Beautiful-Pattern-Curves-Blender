@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+
+id = "creating_curves"
+version = "1.0.0"
+name = "Colourful Curves"
+tagline = "Can be used for creating amazing curves"
+maintainer = "Vaishnav"
+type = "add-on"
+blender_version_min = "4.2.1"
+license = ["SPDX:GPL-3.0-or-later"]
