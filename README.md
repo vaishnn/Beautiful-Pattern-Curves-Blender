@@ -13,9 +13,10 @@ This Blender addon utilizes the power of Geometry Nodes to generate beautiful an
 **Installation:**
 
 1. Download the addon zip file.
-2. In Blender, go to Edit > Preferences > Add-ons.
-3. Click "Install..." and select the downloaded zip file.
-4. Enable the addon by checking the checkbox next to its name.
+2. Extract the file and the use file creating_curves.zip and material.zip as add-on zips
+3. In Blender, go to Edit > Preferences > Add-ons.
+4. Click "Install..." and select the downloaded zip file.
+5. Enable the addon by checking the checkbox next to its name.
 
 **Usage:**
 
