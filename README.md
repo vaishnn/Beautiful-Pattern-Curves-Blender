@@ -21,24 +21,19 @@ This Blender addon utilizes the power of Geometry Nodes to generate beautiful an
 
 1. Open Geometry node
 2. With Add (Shift + A) add Beautiful Pattern Curves
+3. Add material by installing the materials and then applying the material
 4. Render or export your scene to see the results.
 
 **Examples:**
+## Example 1
+![plot](./pattern_image_1.jpg)
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+## Example 2
+![plot](./pattern_image_2.jpg)
+
+## Example 3
+![plot](./fg.jpg)
 
 **Contributions:**
 
 Contributions are welcome! Please submit pull requests for bug fixes, feature enhancements, or documentation improvements.
-
-**License:**
-
-This addon is released under the [Choose a license e.g., GPL-3.0] license.
-
-**Author:**
-
-[Your name]
-
-**Contact:**
-
-[Your email address or website (optional)]
